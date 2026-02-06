@@ -393,11 +393,11 @@ main {
 .image p:last-child {
     font-size: 15px;
 }
-ion-icon {
-    color: white;
+.element ion-icon {
+    color: var(--text-black);
     vertical-align: middle;
     font-size: 14px;
-    margin-left: 6px;
+    /* margin-left: 6px; */
     font-weight: 700;
 }
 .image svg {
