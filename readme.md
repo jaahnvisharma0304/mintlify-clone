@@ -1,4 +1,4 @@
-# Mintlify Website Clone (HTML + CSS Only)
+# Mintlify Website Clone
 
 This project is a **static desktop-only clone of the Mintlify marketing website**, built strictly using **HTML and CSS**. The goal of this project is to practice **layout structuring, visual hierarchy, and design replication** by closely matching the original Mintlify website’s look and feel—without relying on modern shortcuts.
 
